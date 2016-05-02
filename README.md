@@ -48,3 +48,9 @@ $ export FONTCONFIG_PATH=/opt/X11/lib/X11/fontconfig
 [SOLUTION] - http://stackoverflow.com/a/29221808
 brew switch gnuplot 4.6.6
 ```
+
+<br />
+
+## LICENSE
+[MIT](https://opensource.org/licenses/mit-license.php)
+
